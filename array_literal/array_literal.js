@@ -1,4 +1,4 @@
-// array literal
+// array literal   // array initialization
 
 const number = [];
 
@@ -9,8 +9,8 @@ number[2] = 3;
 number[100] = 1000;
 // console.log(number);
 
-// length - 1
-// length +1
+// length = lastIndex + 1
+// lastIndex = length - 1
 
 
 
